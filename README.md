@@ -1,7 +1,7 @@
 # TaskList （全栈项目）
 支持未来计划、今日待办事项查看和提醒、以及类型数据可视化展示
 # 技术栈
-Vite + Vue3 + TypeScript + ElementUI + Nodejs + MySQL
+Vite + Vue3 + ElementUI + TypeScript  + Nodejs + MySQL
 
 # 亮点
 
