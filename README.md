@@ -30,7 +30,7 @@
 ![image-20230611115206485](C:\Users\xiaowen\AppData\Roaming\Typora\typora-user-images\image-20230611115206485.png)
 
 # 技术栈
-Vite + Vue3 + TypeScript + ElementUI + Nodejs + MySQL
+Vite + Vue3 + ElementUI + TypeScript  + Nodejs + MySQL
 
 # 亮点
 
